@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c820c20-c151-4c26-a7d8-395aae608982" name="Changes" comment="" />
+    <list default="true" id="4c820c20-c151-4c26-a7d8-395aae608982" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/proyecto_MVC_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/static/css/gestionCursos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/static/js/gestionCursos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/templates/edicionCurso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/templates/gestionCursos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/aplicaciones/academico/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/universidad/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/universidad/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/universidad/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/universidad/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/universidad/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/universidad/universidad_mendoza.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
